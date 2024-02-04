@@ -1,0 +1,11 @@
+#ignore filetype
+
+*.wav
+*.json
+*.pt
+
+#ignore folder
+
+__pycache__/
+Utils/__pycache__/
+Utils/TTS/__pycache__

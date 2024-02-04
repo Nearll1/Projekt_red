@@ -1,0 +1,6 @@
+python-telegram-bot
+typing
+deep_translator
+torch
+langchain
+chromadb
